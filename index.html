@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>This is the Title of the Page</title>
+      <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
+  </script>
 </head>
 <body>
    <h1>This is some Heading</h1>
@@ -18,6 +22,25 @@
        <li>another one</li>
        <li>yet another onew</li>
    </ul>
+
+
+   <p>When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and the yare
+       \[x = {-b \pm \sqrt{b^2 - 4ac} \over 2a}.\]</p>
+
+   <p>Above you see that mathjax really does work pretty well... Oh boy... this is quite cool</p>
+   <p>Below you see an SVG graphic..</p>
+
+   <svg width =200px height=200 viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"="">
+
+    <polygon style="fill-rule: nonzero; fill: magenta; stroke: black;" 
+    points="48,16 16,96 96,48 0,48 80,96" />
+
+   </svg>
+
+   <p>Unfortunately my javascript skills are vitually non-existent. Although javascript itself is
+   not difficult at all, learning new skills always comes down to time management, something that 
+   I am utterly horrible at.
+    </p>
 
 </body>
 </html>
