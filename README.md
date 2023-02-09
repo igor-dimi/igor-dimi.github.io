@@ -8,3 +8,5 @@ Here is the [link][id]
 [data-sci ai ml learning res](https://igor-dimi.github.io/datasci-learning) 
 
 [lina and anal books](https://igor-dimi.github.io/lina-anal-books02)
+
+[num0 WS 22/23 Zusammenfassung](https://igor-dimi.github.io/num0-zusammenfassung)
