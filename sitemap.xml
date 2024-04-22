@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://igor-dimi.github.io/index.html</loc>
-    <lastmod>2024-04-22T21:20:33.585Z</lastmod>
+    <loc>https://igor-dimi.github.io/posts/post-with-code/index.html</loc>
+    <lastmod>2024-04-22T21:46:03.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/my-about.html</loc>
+    <lastmod>2024-04-22T21:51:30.941Z</lastmod>
   </url>
   <url>
     <loc>https://igor-dimi.github.io/about.html</loc>
-    <lastmod>2024-04-22T21:20:33.585Z</lastmod>
+    <lastmod>2024-04-22T21:25:58.252Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/blog.html</loc>
+    <lastmod>2024-04-22T21:49:40.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/index.html</loc>
+    <lastmod>2024-04-22T21:52:36.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/posts/welcome/index.html</loc>
+    <lastmod>2024-04-22T21:46:03.401Z</lastmod>
   </url>
 </urlset>
