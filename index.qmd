@@ -3,4 +3,4 @@ title: "Home"
 ---
 
 * [uni](https://igor-dimi.github.io/uni/)
-* [knowledge base]()
+* [knowledge base](https://igor-dimi.github.io/nb/)
