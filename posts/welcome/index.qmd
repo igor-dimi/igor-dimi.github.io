@@ -1,12 +1,14 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-04-19"
-categories: [news]
+title: "Love & Hate"
+author: ""
+date: "2025-01-12"
+categories: [life]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Some say love and hate are two sides of the same coin, that the line dividing them is thin.
+I couldn't disagree more. Love and hate are two opposing, antithetical forces. They can not coexist in the same heart.
 
-![](thumbnail.jpg)
+We must push hatred, anger, cruelty, lust and jealousy out of our hearts; only then will there be room for love to enter.
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Yes, it is not easy to forgive people who wronged us, to love our 'enemies'. 
+But that is the whole struggle, that is what *life* is all about. 
