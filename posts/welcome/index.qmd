@@ -1,6 +1,6 @@
 ---
 title: "Love & Hate"
-author: ""
+author: "Igor"
 date: "2025-01-12"
 categories: [life]
 ---
@@ -11,4 +11,7 @@ I couldn't disagree more. Love and hate are two opposing, antithetical forces. T
 We must push hatred, anger, cruelty, lust and jealousy out of our hearts; only then will there be room for love to enter.
 
 Yes, it is not easy to forgive people who wronged us, to love our 'enemies'. 
-But that is the whole struggle, that is what *life* is all about. 
+But that is the whole struggle, that is what *life* is all about. [^1]
+
+[^1]: [link](https://www.youtube.com/watch?v=_Ho7Eo3bUJ4)
+
