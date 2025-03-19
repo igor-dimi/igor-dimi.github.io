@@ -1,17 +1,11 @@
 ---
-title: "Love & Hate"
+title: "empty"
 author: "Igor"
 date: "2025-01-12"
 categories: [life]
 ---
 
-Some say love and hate are two sides of the same coin, that the line dividing them is thin.
-I couldn't disagree more. Love and hate are two opposing, antithetical forces. They can not coexist in the same heart.
-
-We must push hatred, anger, cruelty, lust and jealousy out of our hearts; only then will there be room for love to enter.
-
-Yes, it is not easy to forgive people who wronged us, to love our 'enemies'. 
-But that is the whole struggle, that is what *life* is all about. [^1]
+nothing
 
 [^1]: [link](https://www.youtube.com/watch?v=_Ho7Eo3bUJ4)
 
