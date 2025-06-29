@@ -1,0 +1,10 @@
+---
+title: Minipost - A Minimal Blog Platform
+---
+
+MiniPost is a minimal full-stack web application designed as a learning project to explore how modern web systems work end-to-end. It features a Single Page Application (SPA) frontend, a GraphQL API backend, secure user authentication using JWTs and bcrypt, and persistent data storage with PostgreSQL. The goal is to gain practical experience with key architectural patterns, tools, and development workflows used in real-world applications — all while maintaining a clean and modular codebase.
+
+
+* [documentation](https://igor-dimi.github.io/projects-notes/minipost/intro.html)
+
+

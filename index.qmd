@@ -4,3 +4,4 @@ title: "Home"
 
 * [uni](https://igor-dimi.github.io/uni/)
 * [nb](https://igor-dimi.github.io/nb/)
+* [projects](./projects.qmd)
