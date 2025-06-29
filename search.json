@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "projects/minipost.html",
+    "href": "projects/minipost.html",
+    "title": "Minipost - A Minimal Blog Platform",
+    "section": "",
+    "text": "MiniPost is a minimal full-stack web application designed as a learning project to explore how modern web systems work end-to-end. It features a Single Page Application (SPA) frontend, a GraphQL API backend, secure user authentication using JWTs and bcrypt, and persistent data storage with PostgreSQL. The goal is to gain practical experience with key architectural patterns, tools, and development workflows used in real-world applications — all while maintaining a clean and modular codebase.\n\ndocumentation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My Personal Site"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "empty",
+    "section": "",
+    "text": "nothing"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Minipost - A Minimal Blog Platform\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "uni\nnb\nprojects"
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -14,31 +49,10 @@
     "text": "It’s me… coming soon…"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "My Personal Site"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "My Blog",
     "section": "",
-    "text": "empty\n\n\n \n\n\nlife\n\n\n \n\n\n\n\n\nJan 12, 2025\nIgor \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n \n\n\nnews\n\ncode\n\nanalysis\n\n\n \n\n\n\n\n\nApr 22, 2024\nHarlow Malloc\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "uni\nnb"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "empty",
-    "section": "",
-    "text": "nothing"
+    "text": "empty\n\n\n\nlife\n\n\n\n\n\n\n\n\n\nJan 12, 2025\n\n\nIgor\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 22, 2024\n\n\nHarlow Malloc\n\n\n\n\n\nNo matching items"
   }
 ]
