@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - applets/calculator/**
+    - applets/cindy-demo/**
 
 website:
   title: "home site"
@@ -11,6 +14,10 @@ website:
       - my-about.qmd
       - href: blog.qmd
         text: Blog
+      - href: projects.qmd
+        text: Projects
+      - href: applets/applets.qmd
+        text: Applets
 
 format:
   html:

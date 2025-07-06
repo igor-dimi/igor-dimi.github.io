@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Binary–Decimal Converter</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 600px;
+      margin: 2em auto;
+      padding: 1em;
+    }
+    input {
+      margin: 0.5em 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Binary ↔ Decimal Converter</h1>
+  
+  <label>Decimal: <input id="dec" type="number" /></label>
+  <button onclick="toBinary()">To Binary</button><br />
+  
+  <label>Binary: <input id="bin" type="text" /></label>
+  <button onclick="toDecimal()">To Decimal</button>
+  
+  <p id="result"></p>
+  
+  <script>
+    function toBinary() {
+      const dec = parseInt(document.getElementById('dec').value);
+      if (isNaN(dec)) return setResult('Invalid decimal');
+      document.getElementById('bin').value = dec.toString(2);
+      setResult('');
+    }
+
+    function toDecimal() {
+      const bin = document.getElementById('bin').value;
+      if (!/^[01]+$/.test(bin)) return setResult('Invalid binary');
+      document.getElementById('dec').value = parseInt(bin, 2);
+      setResult('');
+    }
+
+    function setResult(msg) {
+      document.getElementById('result').innerText = msg;
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+---
+title: Applets
+---
+
+- [binary-decimal-converter](./bin-dec-converter.html)
+- [calculator](./calculator/index.html)
+- [cindyJS - sunflower Demo](cindy-demo/index.html)
