@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<ul id="menu">
+  <li><button data-action="save">Save</button></li>
+  <li><button data-action="load">Load</button></li>
+  <li><button data-action="exit">Exit</button></li>
+</ul>
+
+<script>
+  const menu = document.getElementById("menu");
+
+  menu.addEventListener("click", function(event) {
+    // check if a <button> was clicked
+    if (event.target.tagName === "BUTTON") {
+      const action = event.target.dataset.action;
+      console.log("Button clicked:", action);
+
+      switch (action) {
+        case "save":
+          alert("Saving...");
+          break;
+        case "load":
+          alert("Loading...");
+          break;
+        case "exit":
+          alert("Exiting...");
+          break;
+      }
+    }
+  });
+</script>
+</body>
+</html>
+
