@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p id="count">You clicked 0 times</p>
+    <button id="btn">Click me</button>
+
+    <script>
+      // our state
+      let count = 0;
+
+      // get references to DOM nodes
+      const countEl = document.getElementById("count");
+      const buttonEl = document.getElementById("btn");
+
+      // event handler updates BOTH state and DOM
+      buttonEl.addEventListener("click", function() {
+        count += 1;
+        countEl.textContent = "You clicked " + count + " times";
+      });
+    </script>
+  </body>
+</html>
