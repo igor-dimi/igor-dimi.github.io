@@ -6,6 +6,7 @@ title: "Home"
 * [nb](https://igor-dimi.github.io/nb/)
 * [projects](./projects.qmd)
 * [applets](./applets/applets.qmd)
+* [gallery](https://igor-dimi.github.io/my-gallery)
 
 
 ::: {=html}
